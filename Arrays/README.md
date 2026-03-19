@@ -1,29 +1,17 @@
 # Arrays — DSA Preparation
 
-This folder contains solutions to array-based problems.  
-Arrays are a fundamental data structure that store elements in contiguous memory and allow efficient access by index.
+This folder contains general array problems.  
+Focus is on **traversal, searching, rearrangement, and basic operations** on arrays.
 
-## Key Concepts Covered
-- Traversal, indexing, insertion, deletion, and manipulation
-- Finding max/min values
-- Prefix sums and cumulative operations
-- Filtering and partitioning arrays
-- Subarrays, subsequences, and sums
-
-## Typical Problem Types
-- Maximum/minimum subarray sum
-- Array rotation and rearrangement
-- Frequency count and duplicates
-- Sliding window and prefix sum applications
-
-## Learning Goals
-- Efficient array traversal and manipulation
-- Use of common patterns like **sliding window** and **two pointers**
-- Handling edge cases
-- Optimizing time and space complexity
+## Typical Problems
+- Searching for elements
+- Counting duplicates
+- Rearranging elements (even/odd, negative/positive)
+- Basic arithmetic operations (sum, product)
+- Rotations and shifts
 
 ## How to Run
-Each problem folder contains Java solutions. Compile and run using:
+Compile and run Java solutions:
 
 ```bash
 javac Solution.java
