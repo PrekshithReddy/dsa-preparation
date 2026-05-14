@@ -48,5 +48,10 @@
 ## Hash Table
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0771-jewels-and-stones) |
 | [2784-check-if-array-is-good](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2784-check-if-array-is-good) |
+## String
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
