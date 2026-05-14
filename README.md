@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0238-product-of-array-except-self) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0215-kth-largest-element-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
