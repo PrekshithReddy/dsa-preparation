@@ -3,7 +3,7 @@ class Solution {
         int X=0;
         for(int i=0;i<operations.length;i++)
         {
-            if(operations[i].charAt(1)=='+')
+            if(operations[i].equals("++X")||operations[i].equals("X++"))
             {
                 X++;
             }
