@@ -3,8 +3,14 @@ class Solution {
         int max=0;
         for(String s:sentences)
         {
-            String[] words=s.split(" ");
-            max=Math.max(max,words.length);
+            int count=1;
+            for(int i=0;i<s.length();i++){
+                if(s.charAt(i)==' ')
+                {
+                    count++;
+                }
+            }
+            max=Math.max(max,count);
         }
         return max;
     }
