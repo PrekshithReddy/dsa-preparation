@@ -1,13 +1,17 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        Arrays.sort(nums);
-        for(int i=1;i<nums.length;i++)
+    HashMap <Integer,Integer> hm= new HashMap<>();
+    for(int num:nums){
+        if(hm.containsKey(num))
         {
-            if(nums[i]==nums[i-1])
-            {
-                return true;
-            }
+            return true;
         }
-        return false;
+        else
+        {
+            hm.put(num,1);
+        }
+
+    }
+    return false;
     }
 }
