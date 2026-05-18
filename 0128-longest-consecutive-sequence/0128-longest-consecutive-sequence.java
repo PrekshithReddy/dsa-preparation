@@ -6,7 +6,6 @@ class Solution {
         }
         Arrays.sort(nums);
         int maxCount=1;
-        int diff=0;
         int count=1;
         for(int i=1;i<nums.length;i++)
         {
