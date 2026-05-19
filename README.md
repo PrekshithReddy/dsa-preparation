@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0215-kth-largest-element-in-an-array) |
@@ -77,6 +78,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Greedy
@@ -112,4 +114,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0146-lru-cache) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
