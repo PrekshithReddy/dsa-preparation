@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0074-search-a-2d-matrix) |
@@ -137,6 +138,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0704-binary-search) |
