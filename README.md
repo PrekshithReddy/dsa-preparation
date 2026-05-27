@@ -142,4 +142,16 @@
 | [0074-search-a-2d-matrix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0704-binary-search) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
