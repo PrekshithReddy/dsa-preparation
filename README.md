@@ -33,6 +33,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2404-most-frequent-even-element](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2404-most-frequent-even-element) |
 | [2784-check-if-array-is-good](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2784-check-if-array-is-good) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [0231-power-of-two](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0342-power-of-four) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
