@@ -121,6 +121,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0206-reverse-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -158,6 +159,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0342-power-of-four) |
