@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -128,6 +129,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0146-lru-cache](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
@@ -171,6 +173,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0342-power-of-four) |
 ## Stack
@@ -178,4 +181,5 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
