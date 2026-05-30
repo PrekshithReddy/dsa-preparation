@@ -134,6 +134,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -176,4 +177,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
