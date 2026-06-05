@@ -168,6 +168,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0342-power-of-four) |
@@ -181,6 +182,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0234-palindrome-linked-list) |
