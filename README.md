@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0053-maximum-subarray) |
@@ -72,6 +73,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0142-linked-list-cycle-ii) |
@@ -110,6 +112,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0011-container-with-most-water) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Bucket Sort
 |  |
