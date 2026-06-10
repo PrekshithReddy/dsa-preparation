@@ -28,6 +28,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0704-binary-search) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-matrix-diagonal-sum](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1572-matrix-diagonal-sum) |
@@ -97,6 +98,7 @@
 | [0217-contains-duplicate](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0771-jewels-and-stones) |
 | [2404-most-frequent-even-element](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2404-most-frequent-even-element) |
 | [2784-check-if-array-is-good](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2784-check-if-array-is-good) |
@@ -216,9 +218,11 @@
 | [0143-reorder-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
