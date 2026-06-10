@@ -75,6 +75,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0143-reorder-list) |
@@ -143,6 +144,7 @@
 | [0002-add-two-numbers](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0142-linked-list-cycle-ii) |
