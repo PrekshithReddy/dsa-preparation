@@ -30,6 +30,7 @@
 | [0347-top-k-frequent-elements](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-matrix-diagonal-sum](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1929-concatenation-of-array) |
@@ -219,10 +220,12 @@
 | [0155-min-stack](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
