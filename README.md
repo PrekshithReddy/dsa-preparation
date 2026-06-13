@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0053-maximum-subarray) |
@@ -77,6 +78,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0142-linked-list-cycle-ii) |
