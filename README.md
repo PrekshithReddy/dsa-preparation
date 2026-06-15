@@ -23,6 +23,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0238-product-of-array-except-self) |
@@ -84,6 +85,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0876-middle-of-the-linked-list) |
@@ -192,6 +194,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0342-power-of-four) |
