@@ -1,38 +1,27 @@
 class Solution {
 
+    int preIndex = 0;
+
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        return construct(preorder, inorder, 0, preorder.length - 1,
-                         0, inorder.length - 1);
+        return build(preorder, inorder, 0, inorder.length - 1);
     }
 
-    public TreeNode construct(int[] preorder, int[] inorder,
-                               int preStart, int preEnd,
-                               int inStart, int inEnd) {
+    public TreeNode build(int[] preorder, int[] inorder, int start, int end) {
 
-        if (preStart > preEnd || inStart > inEnd) {
+        if (start > end) {
             return null;
         }
 
-        TreeNode root = new TreeNode(preorder[preStart]);
+        int value = preorder[preIndex++];
+        TreeNode root = new TreeNode(value);
 
-        int rootIndex = inStart;
-        while (inorder[rootIndex] != root.val) {
-            rootIndex++;
+        int pos = start;
+        while (inorder[pos] != value) {
+            pos++;
         }
 
-        int leftSize = rootIndex - inStart;
-
-        root.left = construct(preorder, inorder,
-                              preStart + 1,
-                              preStart + leftSize,
-                              inStart,
-                              rootIndex - 1);
-
-        root.right = construct(preorder, inorder,
-                               preStart + leftSize + 1,
-                               preEnd,
-                               rootIndex + 1,
-                               inEnd);
+        root.left = build(preorder, inorder, start, pos - 1);
+        root.right = build(preorder, inorder, pos + 1, end);
 
         return root;
     }
