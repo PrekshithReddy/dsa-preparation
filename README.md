@@ -4,7 +4,7 @@
 - Master DSA for coding interviews
 
 ## 📈 Progress
-- Problems Solved: 50+
+- Problems Solved: 100+
 - Daily Practice Ongoing
 
 <!---LeetCode Topics Start-->
