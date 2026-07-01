@@ -174,6 +174,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0155-min-stack) |
+| [0933-number-of-recent-calls](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0933-number-of-recent-calls) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -279,4 +280,12 @@
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0226-invert-binary-tree) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
