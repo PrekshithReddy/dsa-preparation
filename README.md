@@ -265,6 +265,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -286,11 +287,13 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
