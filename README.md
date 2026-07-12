@@ -34,6 +34,7 @@
 | [0347-top-k-frequent-elements](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0496-next-greater-element-i) |
+| [0622-design-circular-queue](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -167,6 +168,7 @@
 | [0234-palindrome-linked-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
@@ -176,6 +178,7 @@
 | [0155-min-stack](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0933-number-of-recent-calls) |
 ## Doubly-Linked List
 |  |
@@ -289,6 +292,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
