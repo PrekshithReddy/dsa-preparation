@@ -321,4 +321,8 @@
 | ------- |
 | [0901-online-stock-span](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0933-number-of-recent-calls) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
