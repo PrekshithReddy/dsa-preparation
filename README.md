@@ -17,6 +17,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0074-search-a-2d-matrix) |
@@ -63,6 +64,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0217-contains-duplicate) |
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0138-copy-list-with-random-pointer) |
@@ -123,6 +126,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0771-jewels-and-stones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2011-final-value-of-variable-after-performing-operations) |
