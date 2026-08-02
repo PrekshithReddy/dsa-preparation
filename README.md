@@ -22,6 +22,7 @@
 | [0054-spiral-matrix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0128-longest-consecutive-sequence) |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0486-predict-the-winner) |
