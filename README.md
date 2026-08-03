@@ -45,6 +45,7 @@
 | [0877-stone-game](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1406-stone-game-iii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-matrix-diagonal-sum](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1572-matrix-diagonal-sum) |
@@ -173,6 +174,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1406-stone-game-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -235,6 +237,7 @@
 | [0486-predict-the-winner](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1406-stone-game-iii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1406-stone-game-iii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Bit Manipulation
 |  |
@@ -351,4 +354,5 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
