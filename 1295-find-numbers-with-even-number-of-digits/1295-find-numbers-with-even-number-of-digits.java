@@ -1,7 +1,7 @@
 class Solution {
     public int findNumbers(int[] nums) {
         int n=nums.length;
-        int EvenCount=0;
+        int Evencount=0;
         for(int i=0;i<n;i++)
         {
             int count=0;
@@ -13,9 +13,9 @@ class Solution {
             }
             if(count%2==0)
             {
-                EvenCount++;
+                Evencount++;
             }
         }
-        return EvenCount;
+        return Evencount;
     }
 }
