@@ -14,6 +14,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0035-search-insert-position) |
@@ -71,6 +72,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0215-kth-largest-element-in-an-array) |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0061-rotate-list) |
