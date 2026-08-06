@@ -252,6 +252,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1406-stone-game-iii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -368,4 +369,8 @@
 | [0486-predict-the-winner](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1406-stone-game-iii) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
