@@ -57,6 +57,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2404-most-frequent-even-element](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2404-most-frequent-even-element) |
 | [2784-check-if-array-is-good](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2784-check-if-array-is-good) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -151,6 +152,7 @@
 | [0771-jewels-and-stones](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0771-jewels-and-stones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Simulation
 |  |
 | ------- |
@@ -373,4 +375,12 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3345-smallest-divisible-digit-product-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
