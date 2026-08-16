@@ -127,6 +127,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0128-longest-consecutive-sequence) |
@@ -147,6 +148,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0125-valid-palindrome) |
@@ -390,6 +392,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
