@@ -55,6 +55,7 @@
 | [1929-concatenation-of-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2029-stone-game-ix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -172,6 +173,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0011-container-with-most-water) |
+| [2029-stone-game-ix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Bucket Sort
 |  |
@@ -182,6 +184,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0347-top-k-frequent-elements) |
+| [2029-stone-game-ix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2029-stone-game-ix) |
 | [2404-most-frequent-even-element](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2404-most-frequent-even-element) |
 ## Union-Find
 |  |
@@ -261,6 +264,7 @@
 | [0877-stone-game](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2029-stone-game-ix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
@@ -379,6 +383,7 @@
 | [0486-predict-the-winner](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2029-stone-game-ix) |
 ## Enumeration
 |  |
 | ------- |
@@ -398,4 +403,16 @@
 | [0424-longest-repeating-character-replacement](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0424-longest-repeating-character-replacement) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
