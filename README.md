@@ -140,6 +140,7 @@
 | [0217-contains-duplicate](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0771-jewels-and-stones) |
 | [2404-most-frequent-even-element](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2404-most-frequent-even-element) |
@@ -154,6 +155,7 @@
 | [0125-valid-palindrome](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0771-jewels-and-stones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -393,6 +395,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0424-longest-repeating-character-replacement) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
