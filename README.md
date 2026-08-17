@@ -22,6 +22,7 @@
 | [0053-maximum-subarray](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0118-pascals-triangle) |
@@ -81,6 +82,7 @@
 | ------- |
 | [0015-3sum](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0215-kth-largest-element-in-an-array) |
@@ -116,6 +118,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0125-valid-palindrome) |
@@ -436,4 +439,12 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2029-stone-game-ix) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
