@@ -43,6 +43,7 @@
 | [0485-max-consecutive-ones](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0739-daily-temperatures) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
@@ -149,6 +151,7 @@
 | [0347-top-k-frequent-elements](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0771-jewels-and-stones) |
 | [2404-most-frequent-even-element](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2404-most-frequent-even-element) |
