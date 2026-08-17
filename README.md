@@ -110,6 +110,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0141-linked-list-cycle) |
@@ -208,6 +209,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0142-linked-list-cycle-ii) |
