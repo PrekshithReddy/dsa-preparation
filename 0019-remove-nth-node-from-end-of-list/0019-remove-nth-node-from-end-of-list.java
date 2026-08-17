@@ -16,13 +16,13 @@ class Solution {
         {
             temp=temp.next;
             size++;
-        }
-        ListNode prev=head;
-        if(n==size)
+        }      
+        if(size==n)
         {
             head=head.next;
             return head;
-        }
+        } 
+        ListNode prev=head;
         int i=1;
         int indexFromLast=size-n;
         while(i<indexFromLast)
