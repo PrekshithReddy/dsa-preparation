@@ -1,12 +1,12 @@
 class Solution {
     public int longestConsecutive(int[] nums) {
-        Arrays.sort(nums);
         if(nums.length==0)
         {
             return 0;
         }
-        int seq=1;
-        int maxSeq=1;
+        int count=1;
+        int MaxCount=1;
+        Arrays.sort(nums);
         for(int i=0;i<nums.length-1;i++)
         {
             if(nums[i]==nums[i+1])
@@ -15,13 +15,14 @@ class Solution {
             }
             else if(nums[i]==nums[i+1]-1)
             {
-                seq++;
+                count++;
             }
             else{
-                seq=1;
+                count=1;
             }
-            maxSeq=Math.max(maxSeq,seq);
+            MaxCount=Math.max(MaxCount,count);
         }
-        return maxSeq;
+    return MaxCount;
     }
+
 }
