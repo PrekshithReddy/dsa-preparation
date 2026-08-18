@@ -1,10 +1,10 @@
 class Solution {
     public int findNumbers(int[] nums) {
-        int evenCount=0;
+        int EvenCount=0;
         for(int i=0;i<nums.length;i++)
         {
-            int temp=nums[i];
             int digitCount=0;
+            int temp=nums[i];
             while(temp!=0)
             {
                 temp=temp/10;
@@ -12,9 +12,9 @@ class Solution {
             }
             if(digitCount%2==0)
             {
-                evenCount++;
+                EvenCount++;
             }
         }
-        return evenCount;
+        return EvenCount;
     }
 }
