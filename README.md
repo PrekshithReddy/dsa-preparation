@@ -46,6 +46,7 @@
 | [0496-next-greater-element-i](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0622-design-circular-queue) |
+| [0643-maximum-average-subarray-i](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0877-stone-game) |
@@ -438,6 +439,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1004-max-consecutive-ones-iii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3090-maximum-length-substring-with-two-occurrences) |
