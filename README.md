@@ -56,6 +56,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-matrix-diagonal-sum](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1572-matrix-diagonal-sum) |
+| [1872-stone-game-viii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -110,6 +111,7 @@
 | [0238-product-of-array-except-self](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1004-max-consecutive-ones-iii) |
+| [1872-stone-game-viii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1872-stone-game-viii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -218,6 +220,7 @@
 | [0486-predict-the-winner](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1872-stone-game-viii) |
 ## Linked List
 |  |
 | ------- |
@@ -287,6 +290,7 @@
 | [0877-stone-game](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2029-stone-game-ix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -412,6 +416,7 @@
 | [0486-predict-the-winner](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2029-stone-game-ix) |
 ## Enumeration
@@ -439,6 +444,7 @@
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -447,6 +453,7 @@
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2029-stone-game-ix) |
 ## Quicksort
 |  |
