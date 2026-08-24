@@ -1,6 +1,5 @@
 class Solution {
     public int minSubArrayLen(int target, int[] nums) {
-
         int left = 0;
         int sum = 0;
         int minLength = Integer.MAX_VALUE;
@@ -18,6 +17,6 @@ class Solution {
             }
         }
 
-        return minLength == Integer.MAX_VALUE ? 0 : minLength;
+        return minLength==Integer.MAX_VALUE?0:minLength;
     }
 }
