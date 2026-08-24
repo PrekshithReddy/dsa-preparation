@@ -57,6 +57,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-matrix-diagonal-sum](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1572-matrix-diagonal-sum) |
+| [1652-defuse-the-bomb](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1652-defuse-the-bomb) |
 | [1872-stone-game-viii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -444,6 +445,7 @@
 | [0567-permutation-in-string](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1004-max-consecutive-ones-iii) |
+| [1652-defuse-the-bomb](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3090-maximum-length-substring-with-two-occurrences) |
