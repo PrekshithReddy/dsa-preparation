@@ -49,6 +49,7 @@
 | [0622-design-circular-queue](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1004-max-consecutive-ones-iii) |
@@ -191,6 +192,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -341,6 +343,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
