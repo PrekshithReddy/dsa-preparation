@@ -182,6 +182,7 @@
 | [0020-valid-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0344-reverse-string) |
@@ -233,6 +234,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0121-best-time-to-buy-and-sell-stock) |
