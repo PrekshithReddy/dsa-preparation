@@ -189,6 +189,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0771-jewels-and-stones) |
+| [0940-distinct-subsequences-ii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1544-make-the-string-great) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -240,6 +241,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1872-stone-game-viii) |
 ## Linked List
