@@ -73,6 +73,7 @@
 | [2404-most-frequent-even-element](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2404-most-frequent-even-element) |
 | [2784-check-if-array-is-good](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2784-check-if-array-is-good) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -177,6 +178,7 @@
 | [2404-most-frequent-even-element](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2404-most-frequent-even-element) |
 | [2784-check-if-array-is-good](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2784-check-if-array-is-good) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
@@ -354,6 +356,7 @@
 | [0326-power-of-three](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -465,6 +468,7 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3483-unique-3-digit-even-numbers) |
 ## Segment Tree
 |  |
 | ------- |
