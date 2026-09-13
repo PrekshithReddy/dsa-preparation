@@ -51,6 +51,7 @@
 | [0704-binary-search](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0877-stone-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1004-max-consecutive-ones-iii) |
@@ -297,6 +298,7 @@
 | [0054-spiral-matrix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0240-search-a-2d-matrix-ii) |
+| [0835-image-overlap](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0835-image-overlap) |
 | [1572-matrix-diagonal-sum](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1572-matrix-diagonal-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
