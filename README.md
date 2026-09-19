@@ -340,6 +340,7 @@
 | [0836-rectangle-overlap](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1927-sum-game) |
@@ -551,4 +552,5 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
