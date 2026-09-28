@@ -209,6 +209,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1544-make-the-string-great](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1927-sum-game) |
@@ -402,6 +403,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -549,6 +551,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
 | ------- |
