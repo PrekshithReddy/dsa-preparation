@@ -206,6 +206,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0771-jewels-and-stones) |
+| [0856-score-of-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -402,6 +403,7 @@
 | [0496-next-greater-element-i](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -554,6 +556,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
