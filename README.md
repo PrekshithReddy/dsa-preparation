@@ -40,6 +40,7 @@
 | [0217-contains-duplicate](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0485-max-consecutive-ones) |
@@ -370,6 +371,7 @@
 | [0136-single-number](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0342-power-of-four) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3568-minimum-moves-to-clean-the-classroom) |
