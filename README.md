@@ -269,6 +269,7 @@
 | [0118-pascals-triangle](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0940-distinct-subsequences-ii) |
@@ -378,6 +379,7 @@
 | [0231-power-of-two](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0342-power-of-four) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3568-minimum-moves-to-clean-the-classroom) |
