@@ -212,6 +212,7 @@
 | [0567-permutation-in-string](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -239,6 +240,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2029-stone-game-ix) |
@@ -417,6 +419,7 @@
 | [0739-daily-temperatures](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1544-make-the-string-great) |
@@ -569,6 +572,7 @@
 | [0020-valid-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
