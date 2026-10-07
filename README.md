@@ -207,6 +207,7 @@
 | [0115-distinct-subsequences](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0567-permutation-in-string) |
@@ -485,6 +486,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0301-remove-invalid-parentheses) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Queue
 |  |
@@ -579,6 +581,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0301-remove-invalid-parentheses) |
 ## Geometry
 |  |
 | ------- |
