@@ -23,6 +23,7 @@
 | [0054-spiral-matrix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0118-pascals-triangle) |
@@ -386,6 +387,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0191-number-of-1-bits) |
@@ -592,6 +594,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0301-remove-invalid-parentheses) |
 ## Geometry
 |  |
