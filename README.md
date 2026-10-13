@@ -34,6 +34,7 @@
 | [0137-single-number-ii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0164-maximum-gap](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0189-rotate-array) |
@@ -111,6 +112,7 @@
 | [0049-group-anagrams](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0217-contains-duplicate) |
@@ -263,6 +265,7 @@
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0912-sort-an-array) |
 ## Counting
@@ -614,9 +617,14 @@
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0912-sort-an-array) |
 ## Counting Sort
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0912-sort-an-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
