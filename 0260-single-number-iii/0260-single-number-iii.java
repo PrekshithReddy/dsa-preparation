@@ -1,22 +1,27 @@
 class Solution {
     public int[] singleNumber(int[] nums) {
-        int xor=0;
-        for(int n:nums)
+        int result[]=new int[2];
+        int index=0;
+        for(int i=0;i<nums.length;i++)
         {
-            xor=xor^n;
-        }
-        int bit=xor& -xor;
-        int a=0,b=0;
-        for(int n:nums)
-        {
-            if((n&bit)!=0)
+            int count=0;
+            for(int j=0;j<nums.length;j++)
             {
-                a=a^n;
+                if(nums[i]==nums[j])
+                {
+                    count++;
+                }
             }
-            else{
-                b=b^n;
+            if(count==1)
+            {
+                result[index]=nums[i];
+                index++;
+            }
+            if(index==2)
+            {
+                break;
             }
         }
-        return new int[]{a,b};
+        return result;
     }
 }
