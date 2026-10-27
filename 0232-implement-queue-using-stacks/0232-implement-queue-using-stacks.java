@@ -17,17 +17,19 @@ class MyQueue {
             {
                 stack2.push(stack1.pop());
             }
+
         }
         return stack2.pop();
     }
     
     public int peek() {
-        if(stack2.isEmpty())
+         if(stack2.isEmpty())
         {
             while(!stack1.isEmpty())
             {
                 stack2.push(stack1.pop());
             }
+
         }
         return stack2.peek();
     }
