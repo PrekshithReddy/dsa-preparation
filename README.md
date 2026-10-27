@@ -631,4 +631,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0164-maximum-gap) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
