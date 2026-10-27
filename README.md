@@ -47,6 +47,7 @@
 | [0268-missing-number](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0347-top-k-frequent-elements) |
+| [0463-island-perimeter](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0496-next-greater-element-i) |
@@ -347,6 +348,7 @@
 | [0054-spiral-matrix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0240-search-a-2d-matrix-ii) |
+| [0463-island-perimeter](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0463-island-perimeter) |
 | [0835-image-overlap](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0835-image-overlap) |
 | [1572-matrix-diagonal-sum](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1572-matrix-diagonal-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -483,6 +485,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0226-invert-binary-tree) |
+| [0463-island-perimeter](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0463-island-perimeter) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -513,6 +516,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0301-remove-invalid-parentheses) |
+| [0463-island-perimeter](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0463-island-perimeter) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Queue
 |  |
