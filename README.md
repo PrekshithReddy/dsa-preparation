@@ -289,6 +289,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0128-longest-consecutive-sequence) |
+| [1971-find-if-path-exists-in-graph](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1971-find-if-path-exists-in-graph) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -496,6 +497,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0463-island-perimeter) |
+| [1971-find-if-path-exists-in-graph](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -530,6 +532,7 @@
 | [0226-invert-binary-tree](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0463-island-perimeter) |
+| [1971-find-if-path-exists-in-graph](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1971-find-if-path-exists-in-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Queue
 |  |
@@ -652,4 +655,5 @@
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1791-find-center-of-star-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
