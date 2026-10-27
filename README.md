@@ -74,6 +74,7 @@
 | [1929-concatenation-of-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2029-stone-game-ix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2114-maximum-number-of-words-found-in-sentences) |
