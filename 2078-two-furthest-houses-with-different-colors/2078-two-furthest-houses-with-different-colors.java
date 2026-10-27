@@ -7,10 +7,11 @@ class Solution {
             {
                 if(colors[i]!=colors[j])
                 {
-                    max=Math.max(max,j-i);
-                }
+                max=Math.max(max,j-i);
             }
         }
-return max;
     }
+    return max;
+    }
+    
 }
