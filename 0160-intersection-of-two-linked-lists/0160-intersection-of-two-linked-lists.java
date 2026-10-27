@@ -22,11 +22,13 @@ public class Solution {
                 {
                     return tempA;
                 }
-                tempB=tempB.next;
+                else{
+                    tempB=tempB.next;
+                }
             }
             tempA=tempA.next;
-        }       
-    return null;
+        }
+        return null;
     }
 
 }
