@@ -25,7 +25,8 @@ public class Solution {
             }
             tempA=tempA.next;
         }
-        return null;
+    return null;
     }
+ 
 
 }
