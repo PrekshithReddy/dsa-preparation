@@ -47,6 +47,7 @@
 | [0268-missing-number](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0486-predict-the-winner) |
@@ -122,6 +123,7 @@
 | [0242-valid-anagram](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -175,6 +177,7 @@
 | [0234-palindrome-linked-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -198,6 +201,7 @@
 | [0242-valid-anagram](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0560-subarray-sum-equals-k) |
@@ -364,6 +368,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
