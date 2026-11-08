@@ -63,6 +63,7 @@
 | [0912-sort-an-array](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1004-max-consecutive-ones-iii) |
+| [1267-count-servers-that-communicate](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1406-stone-game-iii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1406-stone-game-iii) |
@@ -282,6 +283,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0347-top-k-frequent-elements) |
+| [1267-count-servers-that-communicate](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1267-count-servers-that-communicate) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2029-stone-game-ix) |
 | [2404-most-frequent-even-element](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2404-most-frequent-even-element) |
@@ -289,6 +291,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0128-longest-consecutive-sequence) |
+| [1267-count-servers-that-communicate](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1971-find-if-path-exists-in-graph) |
 ## Dynamic Programming
 |  |
@@ -355,6 +358,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0463-island-perimeter) |
 | [0835-image-overlap](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0835-image-overlap) |
+| [1267-count-servers-that-communicate](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1267-count-servers-that-communicate) |
 | [1572-matrix-diagonal-sum](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1572-matrix-diagonal-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -497,6 +501,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0463-island-perimeter) |
+| [1267-count-servers-that-communicate](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -532,6 +537,7 @@
 | [0226-invert-binary-tree](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/PrekshithReddy/dsa-preparation/tree/master/0463-island-perimeter) |
+| [1267-count-servers-that-communicate](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1971-find-if-path-exists-in-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Queue
