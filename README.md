@@ -89,6 +89,7 @@
 | [2784-check-if-array-is-good](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2784-check-if-array-is-good) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3483-unique-3-digit-even-numbers) |
@@ -132,6 +133,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2784-check-if-array-is-good](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2784-check-if-array-is-good) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
@@ -312,6 +314,7 @@
 | [1872-stone-game-viii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PrekshithReddy/dsa-preparation/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3693-climbing-stairs-ii](https://github.com/PrekshithReddy/dsa-preparation/tree/master/3693-climbing-stairs-ii) |
 ## Linked List
